@@ -1,0 +1,1 @@
+Apenas para criar um arquivo para testar o git. Aqui ficarão todos os exercicios que forem feitos ao longo desses cursos.
